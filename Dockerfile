@@ -12,6 +12,7 @@ RUN apt-get update -yqq \
  && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 USER jovyan
+COPY . ${HOME}
 
 #jupyter nbextension enable --py --sys-prefix widgetsnbextension
 RUN pip install octave_kernel \
