@@ -11,8 +11,9 @@ Una buena referencia es el [libro](http://www.ugr.es/~jjmnieto/MNBOctave.html) e
 
 
 ## Docker
-`Dockerfile` inspirada en https://github.com/arnau/docker-octave-notebook
+`Dockerfile` inspirada en https://github.com/arnau/docker-octave-notebook (no funciona)
 
 ## Binder
 
 Este repositorio se puede probar con [binder](https://mybinder.org/v2/gh/pedritomelenas/Software-Matematicas-Octave/master).
+Los ficheros necesarios para binder con octave los he copiado de [este ejemplo](https://github.com/binder-examples/octave).
