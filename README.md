@@ -7,7 +7,7 @@ En la página oficial de [Octave](https://www.gnu.org/software/octave) se explic
 
 El núcleo de [jupyter](https://www.jupyter.org) para octave se puede encontrar [aquí](https://github.com/Calysto/octave_kernel).
 
-Una buena referencia es el [libro](http://www.ugr.es/~jjmnieto/MNBOctave.html) escrito por A. Delgado Amaro, J. M. Nieto Muñoz, A. M. Robles Pérez y Ó. Sánchez Romero.
+Una buena referencia es el [libro](http://www.ugr.es/~jjmnieto/MNBOctave.html) escrito por A. Delgado Amaro, J. M. Nieto Muñoz, A. M. Robles Pérez y Ó. Sánchez Romero; que ya está disponible en este [repositorio](https://github.com/oscarsanchezromero/Calculo-Cientifico-Octave).
 
 
 ## Docker
